@@ -2,6 +2,9 @@
 
 TCP 방식의 전문 통신을 위한 Client server
 
+with React, React Electron
+
+
 통신방법 TCP socket
 
 통신 파라미터 JSON
