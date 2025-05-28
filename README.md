@@ -24,3 +24,9 @@ dist/ 폴더는 올리지 않기에
 2. socket 연결후 화면
 
 ![TCP데모 연결후](https://github.com/user-attachments/assets/2026e0d5-3844-4d00-985d-7b5217edc2f8)
+
+3. 주문전송 결과 화면
+
+![image](https://github.com/user-attachments/assets/9c6cdbe1-11d1-40c2-9563-66c912fdc434)
+
+
