@@ -17,6 +17,10 @@ TCP 방식의 전문 통신을 위한 Client server
 dist/ 폴더는 올리지 않기에
 파일 실행시 electron 설치 필요
 
-![TCP데모 연결전](https://github.com/user-attachments/assets/0f567f74-5bab-4dcd-9491-5537bb163844)
+1. socket 연결전 화면
+
+![image](https://github.com/user-attachments/assets/b897d508-0ae3-4789-9382-68b7f57d3214)
+
+2. socket 연결후 화면
 
 ![TCP데모 연결후](https://github.com/user-attachments/assets/2026e0d5-3844-4d00-985d-7b5217edc2f8)
